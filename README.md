@@ -92,8 +92,8 @@ This README was written to summarise the project work and outcomes. For full exp
 ## Architecture diagrams
 
 ### Architecture used (experiment)
-![Architecture used](ARCHITECTURE DIAGRAM.png)
+![Architecture used](ARCHITECTURE_DIAGRAM.png)
 
 ### Proposed architecture (ARCHITECTURE DIAGRAM 2)
-![Proposed architecture](ARCHITECTURE DIAGRAM 2.png)
+![Proposed architecture](ARCHITECTURE_DIAGRAM_2.png)
 
